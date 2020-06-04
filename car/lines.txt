@@ -1,0 +1,6 @@
+a0-grey=2 white (green)
+a1-white=3 blue(red)
+a2-brown=4 brown(yellow)
+a3-brown=5 green(green 2)
+a4-grey=6 orange(servo 1)
+a5-yellow=7 violet(servo 2)
