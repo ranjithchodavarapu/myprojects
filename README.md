@@ -1,2 +1,2 @@
-# myprojects
-web,python
+for urlshort :
+import tkinter and pyshorteners
