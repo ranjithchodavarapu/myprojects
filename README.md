@@ -1,2 +1,1 @@
-for urlshort :
-import tkinter and pyshorteners
+install the required packages
