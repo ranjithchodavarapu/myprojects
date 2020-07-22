@@ -4,9 +4,9 @@ import json
 import threading
 
 
-API_KEY="t5APvgjSb0cc"
-PROJECT_TOKEN="tya2PB0FFynF"
-RUN_TOKEN="t4WTJh_N0ZQh"
+API_KEY="add-your-id"  
+PROJECT_TOKEN="add-your-id"
+RUN_TOKEN="add-your-id"
 
 
 
